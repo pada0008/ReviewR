@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.dosh0005.ReviewR"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ca.edumedia.dosh0005.ReviewR"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ca.edumedia.pada0008.ReviewR"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ca.edumedia.dosh0005.ReviewR"
+        }
+    }
+}
